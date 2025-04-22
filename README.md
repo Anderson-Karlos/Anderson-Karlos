@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Tenho 29 anos, sou desenvolvedor full-stack pleno com formação em Análise e Desenvolvimento de Sistemas e pós-graduação em Engenharia de Software com Métodos Ágeis. Como co-fundador da Pede Apps Software & Sistemas, trabalho há mais de 1 ano construindo soluções tecnológicas inovadoras. Minha paixão é transformar ideias em código, performático e escalável, sempre buscando acertar os desejos do cliente.</p>
+<p align="left">Tenho 29 anos, sou desenvolvedor full-stack pleno com formação em Análise e Desenvolvimento de Sistemas e pós-graduação em Engenharia de Software com Métodos Ágeis. Como co-fundador da Pede Apps Software & Sistemas, trabalho há mais de 1 ano construindo soluções tecnológicas e inovadoras. Minha paixão é transformar ideias em código, performático e escalável, sempre buscando acertar os desejos do cliente.</p>
 
 ###
 
